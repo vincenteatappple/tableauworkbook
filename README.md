@@ -1,2 +1,2 @@
 # tableauworkbook
-Visualisation examples with youtube (Great Britain) data
+Visualisation examples with 1. youtube (Great Britain) data, 2. video game sales data
